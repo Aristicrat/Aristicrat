@@ -25,7 +25,7 @@ interested in financial infrastructure, analytics, and real-time systems.
 ![SQL](https://img.shields.io/badge/SQL-1B2A49?style=flat-square&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-0F172A?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E40AF?style=flat-square&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-312E81?style=flat-square&logo=git&logoColor=white)
+
 
 ### Analytics & Infrastructure
 
