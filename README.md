@@ -8,7 +8,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=aristicrat&color=1E3A8A&style=flat-square&label=views)
 
 ---
-
+### Roger Aristizabal
 mathematics • risk systems • product engineering  
 new york
 
