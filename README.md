@@ -9,7 +9,7 @@
 
 ---
 ### Roger Aristizabal
-mathematics • risk systems • product engineering  
+mathematics 
 new york
 
 builds structured data systems and signal-driven applications.  
