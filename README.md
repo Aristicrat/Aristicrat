@@ -12,8 +12,7 @@
 mathematics 
 new york
 
-builds structured data systems and signal-driven applications.  
-interested in financial infrastructure, analytics, and real-time systems.
+
 
 ---
 
