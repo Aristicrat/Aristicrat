@@ -32,10 +32,6 @@ new york
 ![Power BI](https://img.shields.io/badge/Power%20BI-1E3A8A?style=flat-square&logo=powerbi&logoColor=white)
 ![AWS QuickSight](https://img.shields.io/badge/AWS%20QuickSight-0F172A?style=flat-square&logo=amazonaws&logoColor=white)
 
----
-
-## Activity
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rogeraristi2&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=rogeraristi2&redirect=true)
 
 ---
 
